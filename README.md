@@ -2,9 +2,12 @@
 
 
 ## Introduction
-**我是弱智，我什么都不会做**  
-**I'm mentally challenged; I can't do anything**  
-**私は知的障害者です。何もできません**
+**我是弱智，我什么都不会做**    
+
+**I'm mentally challenged; I can't do anything**    
+
+**私は知的障害者です。何もできません**    
+
 **나는 바보라서 아무것도 할 줄 모른다**
 
 ## Interest
