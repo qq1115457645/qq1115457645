@@ -1,5 +1,8 @@
+
+
+
 ## Interest
-**人工神经网络 | 深度模型结构 | ~~KPOP  GAMES |~~**
+**人工神经网络 | 深度模型结构 | ~~KPOP\GAMES |~~**
 
 ## Account in other platforms
 
@@ -10,7 +13,9 @@
 [Blibili] **（https://space.bilibili.com/432782428?spm_id_from=333.1007.0.0）**
 
 
+
+
 ## 📞 Call me
-[E-mail]：** 1115457645@qq.com **  
-[TEL]：** 110 **
+[E-mail]：**1115457645@qq.com**  
+[TEL]：**110**
 
