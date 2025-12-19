@@ -1,4 +1,7 @@
-<img align="top" width="50%" src="le11.jpg">
+<img align="bottom" width="50%" src="le11.jpg">
+
+
+**我是弱智，我什么都不会做**
 
 ## Interest
 **人工神经网络 | 深度模型结构 | ~~KPOP\GAMES |~~**
