@@ -1,16 +1,16 @@
-## Hi there 👋
+## Interest
+**人工神经网络 | 深度模型结构 | ~~KPOP  GAMES |~~**
 
-<!--
-**qq1115457645/qq1115457645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Account in other platforms
 
-Here are some ideas to get you started:
+[Blog] **(https://www.blogger.com/blog/posts/8270683398712498685)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Kaggle] **(https://www.kaggle.com/qq1115457645)**  
+
+[Blibili] **（https://space.bilibili.com/432782428?spm_id_from=333.1007.0.0）**
+
+
+## 📞 Call me
+[E-mail]：** 1115457645@qq.com **  
+[TEL]：** 110 **
+
