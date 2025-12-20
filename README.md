@@ -1,4 +1,4 @@
-<img align="bottom" width="50%" src="le11.jpg">
+<img align="top" width="100%" src="le11.jpg">
 
 
 ## Introduction
