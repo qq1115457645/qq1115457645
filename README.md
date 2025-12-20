@@ -1,32 +1,37 @@
 <img align="top" width="100%" src="le11.jpg">
 <div align="center">
-  <h2 style="font-family: monospace; letter-spacing: 2px; font-weight: bold;">
-    <span class="typing" style="--i:1; color:#ff6b6b">我</span>
-    <span class="typing" style="--i:2; color:#4ecdc4">是</span>
-    <span class="typing" style="--i:3; color:#45b7d1">一</span>
-    <span class="typing" style="--i:4; color:#96c93d">行</span>
-    <span class="typing" style="--i:5; color:#feca57">逐</span>
-    <span class="typing" style="--i:6; color:#ff9ff3">渐</span>
-    <span class="typing" style="--i:7; color:#ff6b81">显</span>
-    <span class="typing" style="--i:8; color:#ff9f43">示</span>
-    <span class="typing" style="--i:9; color:#1dd1a1">的</span>
-    <span class="typing" style="--i:10; color:#54a0ff">彩</span>
-    <span class="typing" style="--i:11; color:#5f27cd">色</span>
-    <span class="typing" style="--i:12; color:#ff6b6b">文</span>
-    <span class="typing" style="--i:13; color:#4ecdc4">字</span>
-    <span style="color:#ff9f43">✨</span>
-  </h2>
+  <h1>
+    <span style="color:#e74c3c">H</span>
+    <span style="color:#f1c40f">e</span>
+    <span style="color:#2ecc71">l</span>
+    <span style="color:#3498db">l</span>
+    <span style="color:#9b59b6">o</span>
+    <span style="color:#e67e22">,</span>
+    <span style="color:#1abc9c"> </span>
+    <span style="color:#e74c3c">W</span>
+    <span style="color:#f1c40f">o</span>
+    <span style="color:#2ecc71">r</span>
+    <span style="color:#3498db">l</span>
+    <span style="color:#9b59b6">d</span>
+    <span style="color:#e67e22">!</span>
+  </h1>
+  
+  <!-- 打字机效果 -->
+  <p style="font-family: monospace; font-size: 1.4em; white-space: pre; overflow: hidden; border-right: .15em solid orange; 
+            animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
+    我是你的彩色打字机效果～ ✨
+  </p>
 </div>
 
 <style>
-  .typing {
-    opacity: 0;
-    animation: appear 0.4s forwards;
-    animation-delay: calc(var(--i) * 0.15s);
-  }
-  @keyframes appear {
-    to { opacity: 1; }
-  }
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
 </style>
 
 
