@@ -11,7 +11,7 @@
 **나는 바보라서 아무것도 할 줄 모른다**
 
 ## 🌟 Interest
-**人工神经网络 | 深度模型结构 | ~~KPOP\GAMES |~~**
+**深度学习|类脑感规控|人工神经网络 | 深度模型结构 | ~~KPOP\GAMES |~~**
 
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=qq1115457645&show_icons=true&theme=radical)
