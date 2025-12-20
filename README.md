@@ -1,8 +1,34 @@
 <img align="top" width="100%" src="le11.jpg">
+<div align="center">
+  <h2 style="font-family: monospace; letter-spacing: 2px; font-weight: bold;">
+    <span class="typing" style="--i:1; color:#ff6b6b">我</span>
+    <span class="typing" style="--i:2; color:#4ecdc4">是</span>
+    <span class="typing" style="--i:3; color:#45b7d1">一</span>
+    <span class="typing" style="--i:4; color:#96c93d">行</span>
+    <span class="typing" style="--i:5; color:#feca57">逐</span>
+    <span class="typing" style="--i:6; color:#ff9ff3">渐</span>
+    <span class="typing" style="--i:7; color:#ff6b81">显</span>
+    <span class="typing" style="--i:8; color:#ff9f43">示</span>
+    <span class="typing" style="--i:9; color:#1dd1a1">的</span>
+    <span class="typing" style="--i:10; color:#54a0ff">彩</span>
+    <span class="typing" style="--i:11; color:#5f27cd">色</span>
+    <span class="typing" style="--i:12; color:#ff6b6b">文</span>
+    <span class="typing" style="--i:13; color:#4ecdc4">字</span>
+    <span style="color:#ff9f43">✨</span>
+  </h2>
+</div>
 
-<p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E3769B&center=true&vCenter=true&random=false&width=600&lines=喜报！%20to%20你今天%20什么也%27s%20没做%20page!" alt="喜报！你今天什么也没做" />
-</p>
+<style>
+  .typing {
+    opacity: 0;
+    animation: appear 0.4s forwards;
+    animation-delay: calc(var(--i) * 0.15s);
+  }
+  @keyframes appear {
+    to { opacity: 1; }
+  }
+</style>
+
 
 
 ## Introduction
