@@ -1,49 +1,15 @@
-<img align="top" width="100%" src="le11.jpg">
-<div align="center">
-  <h1>
-    <span style="color:#e74c3c">H</span>
-    <span style="color:#f1c40f">e</span>
-    <span style="color:#2ecc71">l</span>
-    <span style="color:#3498db">l</span>
-    <span style="color:#9b59b6">o</span>
-    <span style="color:#e67e22">,</span>
-    <span style="color:#1abc9c"> </span>
-    <span style="color:#e74c3c">W</span>
-    <span style="color:#f1c40f">o</span>
-    <span style="color:#2ecc71">r</span>
-    <span style="color:#3498db">l</span>
-    <span style="color:#9b59b6">d</span>
-    <span style="color:#e67e22">!</span>
-  </h1>
-  
-  <!-- 打字机效果 -->
-  <p style="font-family: monospace; font-size: 1.4em; white-space: pre; overflow: hidden; border-right: .15em solid orange; 
-            animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
-    我是你的彩色打字机效果～ ✨
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=喜报!+你+今+天+什+也+没+做+！✨" alt="Typing SVG" />
+</p>
 
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-</style>
 
+<p align="center">
+  <img src="le11.jpg" style="width: 60%; max-width: 600px; height: auto;" alt="I'M FEARLESS">
+</p>
 
 
 ## Introduction
-**我是弱智，我什么都不会做**    
-
-**I'm mentally challenged; I can't do anything**    
-
-**私は知的障害者です。何もできません**    
-
-**나는 바보라서 아무것도 할 줄 모른다**
+**我是弱智，别问我**    
 
 ## 🌟 Interest
 **深度学习|类脑感规控|人工神经网络 | 深度模型结构 | ~~KPOP\GAMES |~~**
