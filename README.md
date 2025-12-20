@@ -1,5 +1,9 @@
 <img align="top" width="100%" src="le11.jpg">
 
+<p align="center">
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E3769B&center=true&vCenter=true&random=false&width=600&lines=Welcome%20to%20Benzyl%20titanium%27s%20GitHub%20page!" alt="喜报！今天你什么都没干！" />
+</p>
+
 
 ## Introduction
 **我是弱智，我什么都不会做**    
