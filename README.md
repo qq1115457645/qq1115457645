@@ -15,7 +15,7 @@
 **深度学习|类脑感规控|人工神经网络 | 深度模型结构 | ~~KPOP\GAMES |~~**
 
 
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=qq1115457645&show_icons=true&theme=radical)
+
 ## Account in other platforms
 
 [Blog] **https://www.blogger.com/blog/posts/8270683398712498685**  
