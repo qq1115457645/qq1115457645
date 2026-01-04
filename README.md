@@ -3,9 +3,6 @@
 </p>
 
 
-<p align="center">
-  <img src="le11.jpg" style="width: 60%; max-width: 600px; height: auto;" alt="I'M FEARLESS">
-</p>
 
 
 ## Introduction
