@@ -11,7 +11,12 @@
 
 
 ## Introduction
-**0.0**    
+
+**多干多错**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**The more you do, the more mistakes you make**  
+**少干少错**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Do less, make fewer mistakes**  
+**不错不错**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Good Good**
+
+
 
 ## 🌟 Interest
 **深度学习|类脑感规控|人工神经网络 | 深度模型结构 | ~~KPOP\GAMES |~~**
